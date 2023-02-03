@@ -1,0 +1,8 @@
+Index: Python/PythonPractice/lesson1/classwork/task1/test.py
+===================================================================
+diff --git a/Python/PythonPractice/lesson1/classwork/task1/test.py b/Python/PythonPractice/lesson1/classwork/task1/test.py
+--- a/Python/PythonPractice/lesson1/classwork/task1/test.py	
++++ b/Python/PythonPractice/lesson1/classwork/task1/test.py	
+@@ -1,0 +1,2 @@
++print('hello world')
++

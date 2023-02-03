@@ -1,0 +1,38 @@
+Index: Python/PyhtonLecture/les1/classwork/task2/task2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Python/PyhtonLecture/les1/classwork/task2/task2.py b/Python/PyhtonLecture/les1/classwork/task2/task2.py
+--- a/Python/PyhtonLecture/les1/classwork/task2/task2.py	
++++ b/Python/PyhtonLecture/les1/classwork/task2/task2.py	
+@@ -168,15 +168,15 @@
+ # del
+ 
+ 
+-def f (x):
+-    if x == 1:
+-        return 'Целое'
+-    elif x == 2.3:
+-        return 23
+-    else:
+-        return
++# def f (x):
++#     if x == 1:
++#         return 'Целое'
++#     elif x == 2.3:
++#         return 23
++#     else:
++#         return
+ 
+ 
+-arg = 222
+-print (f(arg))
+-print (type(f(arg)))
+\ No newline at end of file
++# arg = 222
++# print (f(arg))
++# print (type(f(arg)))
+\ No newline at end of file
+diff --git a/Python/PythonPractice/lesson2/lesson/task1/task1.py b/Python/PythonPractice/lesson2/lesson/task1/task1.py
+new file mode 100644
